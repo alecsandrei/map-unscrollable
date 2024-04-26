@@ -1,5 +1,5 @@
 export default {
-  _widgetLabel: 'Map',
+  _widgetLabel: 'Unscrollable map',
   _action_displayFeatureSet_label: 'Display feature set',
   _action_panTo_label: 'Pan to',
   _action_zoomToFeature_label: 'Zoom to',
